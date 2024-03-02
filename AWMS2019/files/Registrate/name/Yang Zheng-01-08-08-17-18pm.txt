@@ -1,0 +1,15 @@
+Name	Yang Zheng
+Gender	Female
+Title	Miss
+Institute	Chongqing University
+VisaHelp	No
+Presentation	Oral
+TitleofPresentation	Will be sent in the future.
+Email	zyzyttkx@outlook.com
+Phone	17743162872
+Address	College of Chemistry and Chemical Engineering, Chongqing University, 	No.55 Daxuecheng South Rd., Shapingba,	Chongqing, 401331	China
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	USTC Reception Center Experts Building
+ShareRoom	Yes
+Roomate	Yan Jin

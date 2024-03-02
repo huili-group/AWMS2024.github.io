@@ -1,0 +1,15 @@
+Name	Yu-Hsuan Tsao
+Gender	Female
+Title	Ms.
+Institute	National Chiao Tung University (Taiwan)
+VisaHelp	No
+Presentation	Oral
+TitleofPresentation	HCl Formation in the Reaction of Cl Atom with trans-2-Butene Probed with Step-scan Time-resolved FTIR Emission Spectroscopy
+Email	sharon900108@gmail.com
+Phone	+886963388875
+Address	Room B10, Science Building II, No. 1001, Daxue Rd., East Dist., Hsinchu City 300, Taiwan
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	Order by Myself
+ShareRoom	No
+Roomate	

@@ -1,0 +1,15 @@
+Name	Yue Su
+Gender	Female
+Title	Mrs.
+Institute	Shandong Normal University
+VisaHelp	No
+Presentation	Poster
+TitleofPresentation	Will be sent in the future.
+Email	gqzhang@sdnu.edu.cn
+Phone	18753163706
+Address	College of College, Shandong Normal University, 88 Wenhua East Road, Jinan, Shandong, 250014
+ArriDate	2019–3-6
+DeparDate	2019-3-10
+Hotel	Order by Myself
+ShareRoom	No
+Roomate	No Roomate.

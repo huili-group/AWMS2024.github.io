@@ -1,0 +1,15 @@
+Name	Xiaolong Li
+Gender	Male
+Title	Mr. Li
+Institute	Chongqing University
+VisaHelp	No
+Presentation	Oral
+TitleofPresentation	Will be sent in the future.
+Email	xiaolong_li233@outlook.com
+Phone	18983424350
+Address	Daxuecheng north road number 55, Chongqing, China
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	USTC Reception Center Experts Building
+ShareRoom	Yes
+Roomate	Junhua Chen

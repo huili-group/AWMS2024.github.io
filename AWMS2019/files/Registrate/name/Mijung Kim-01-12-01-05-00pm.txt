@@ -1,0 +1,18 @@
+Name	Mijung Kim
+Gender	Female
+Title	Mrs.
+Institute	Pusan National University
+VisaHelp	Yes
+Presentation	No
+TitleofPresentation	
+Email	mijungcafe@naver.com
+Phone	+82-51-514-5877
+Address	c/o Prof. Sang Kuk Lee
+	Department of Chemistry
+	Pusan National University
+	Busan 46241 South Korea
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	USTC Reception Center Experts Building
+ShareRoom	Yes
+Roomate	Sang Kuk Lee

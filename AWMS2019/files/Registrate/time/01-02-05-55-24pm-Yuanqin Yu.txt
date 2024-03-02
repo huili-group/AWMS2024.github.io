@@ -1,0 +1,15 @@
+Name	Yuanqin Yu
+Gender	Female
+Title	Dr.
+Institute	Anhui University
+VisaHelp	No
+Presentation	No
+TitleofPresentation	
+Email	yyq@ahu.edu.cn
+Phone	+86-13866724976
+Address	Room E424, NO. 111, Jiulong Road, Hefei, 230601
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	Order by Myself
+ShareRoom	No
+Roomate	

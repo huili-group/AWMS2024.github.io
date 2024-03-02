@@ -1,0 +1,15 @@
+Name	Jicai Zhang
+Gender	Male
+Title	Mr.
+Institute	Institute of Modern Physics, Chinese Academy of Sciences
+VisaHelp	No
+Presentation	Poster
+TitleofPresentation	Two new electronic transitions [21.2]0+ – X0+ and  [22.2]0+ – X0+ of tungsten oxide (WO)
+Email	zhangjicai@impcas.ac.cn
+Phone	18694151830
+Address	Building 5#	509 Nanchang Road., Lanzhou, Gansu, 730000, China
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	USTC Reception Center Experts Building
+ShareRoom	No
+Roomate	No Roomate.

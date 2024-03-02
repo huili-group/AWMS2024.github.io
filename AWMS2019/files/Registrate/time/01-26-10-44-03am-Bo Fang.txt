@@ -1,0 +1,15 @@
+Name	Bo Fang
+Gender	Male
+Title	Dr.
+Institute	Hefei insititutes of Physical Science, Chinese Academy of Sciences
+VisaHelp	No
+Presentation	No
+TitleofPresentation	No Presentation.
+Email	fangbo@aiofm.ac.cn
+Phone	15805658485
+Address	350 Shushanhu Road, Hefei 230031, Anhui, P. R. China
+ArriDate	Local
+DeparDate	Local
+Hotel	Order by Myself
+ShareRoom	No
+Roomate	No Roomate.

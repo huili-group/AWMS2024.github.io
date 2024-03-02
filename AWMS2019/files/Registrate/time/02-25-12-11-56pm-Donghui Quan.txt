@@ -1,0 +1,15 @@
+Name	Donghui Quan
+Gender	Male
+Title	Prof.
+Institute	Xinjiang Astronomical Observatory, CAS
+VisaHelp	No
+Presentation	No
+TitleofPresentation	No Presentation.
+Email	quandh@xao.ac.cn
+Phone	15996012313
+Address	150 Science-1 Street, Urumqi, Xinjiang
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	Gaosu New Century International Hotel (Shuttle Available)
+ShareRoom	No
+Roomate	No Roomate.

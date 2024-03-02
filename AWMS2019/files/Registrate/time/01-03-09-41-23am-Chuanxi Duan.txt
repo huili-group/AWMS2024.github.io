@@ -1,0 +1,15 @@
+Name	Chuanxi Duan
+Gender	Male
+Title	Prof.
+Institute	Central China Normal University
+VisaHelp	No
+Presentation	No
+TitleofPresentation	No Presentation.
+Email	duanchx@mail.ccnu.edu.cn
+Phone	13886110725
+Address	College of Physical Science and Technology	Central China Normal University	Luoyu Road 152,	Wuhan, China
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	Gaosu New Century International Hotel (Shuttle Available)
+ShareRoom	No
+Roomate	No Roomate.

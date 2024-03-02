@@ -1,0 +1,15 @@
+Name	Ruiqin Xu
+Gender	Female
+Title	Mrs
+Institute	Shanghai University
+VisaHelp	No
+Presentation	Poster
+TitleofPresentation	Will be sent in the future.
+Email	xuruiqin@i.shu.edu.cn
+Phone	18818218580
+Address	E building, Shanghai University,	N0.99 Shangda Road, Baoshan District,	Shanghai, 200444, China
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	Order by Myself
+ShareRoom	Yes
+Roomate	Hexu Ye

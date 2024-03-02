@@ -1,0 +1,18 @@
+Name	Akiko Nishiyama
+Gender	Female
+Title	Dr
+Institute	Nicolaus Copernicus University
+VisaHelp	No
+Presentation	Oral
+TitleofPresentation	Highly Sensitive and Broadband Frequency Comb Spectroscopy Using a High Finesse Cavity
+Email	a-nishiyama@uec.ac.jp
+Phone	+48797775799
+Address	Grudziądzka 5, 87-100 Toruń  Województwo kujawsko-pomorskie
+	Uniwersytet Mikołaja Kopernika Wydział Fizyki Astronomii i Informatyki Stosowanej
+	
+	
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	Order by Myself
+ShareRoom	No
+Roomate	

@@ -1,0 +1,15 @@
+Name	Ayumi Kanaoka
+Gender	Female
+Title	Ms.
+Institute	Kyoto University
+VisaHelp	No
+Presentation	Poster
+TitleofPresentation	Bucky Bowl Corannulene : Excited States and Dynamics
+Email	kanaoka.ayumi.55u@st.kyoto-u.ac.jp
+Phone	+81-075-753-6834
+Address	Graduate School of Science, Kyoto University	Kitashirakawa-oiwakecho, Sakyo-ku	606-8502, Kyoto, Japan
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	USTC Reception Center Experts Building
+ShareRoom	No
+Roomate	No Roomate.

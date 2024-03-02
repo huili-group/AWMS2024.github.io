@@ -1,0 +1,15 @@
+Name	Hak Seung Ryu
+Gender	Male
+Title	Mr.
+Institute	Gyeongsang National University
+VisaHelp	No
+Presentation	Poster
+TitleofPresentation	Vibronic spectra of jet-cooled 2-cyanoindole and its water clusters their and computational calculations
+Email	fbgkrtmd2002@daum.net
+Phone	+82-10-2772-3843
+Address	352 - 423, Department of Chemistry	501, Jinju-daero, Jinju, Gyeongnam 52828	South Korea
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	Order by Myself
+ShareRoom	No
+Roomate	No Roomate.

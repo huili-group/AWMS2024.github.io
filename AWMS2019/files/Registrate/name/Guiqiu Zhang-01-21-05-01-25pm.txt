@@ -1,0 +1,15 @@
+Name	Guiqiu Zhang
+Gender	Female
+Title	Prof./Mrs.
+Institute	Shandong Normal University
+VisaHelp	No
+Presentation	Poster
+TitleofPresentation	Will be sent in the future.
+Email	gqzhang@sdnu.edu.cn
+Phone	15169053602
+Address	College of Chemistry, Shandong Normal University, 88 Wenhua East Road, Jinan, Shandong, 250014
+ArriDate	2019-3-6
+DeparDate	3019-3-9
+Hotel	USTC Reception Center Experts Building
+ShareRoom	No
+Roomate	No Roomate.

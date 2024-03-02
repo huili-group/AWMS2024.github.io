@@ -1,0 +1,17 @@
+Name	Masaaki Baba
+Gender	Male
+Title	Prof. Dr.
+Institute	Kyoto University
+VisaHelp	No
+Presentation	Oral
+TitleofPresentation	CH3 Internal Rotation in 9-Methylanthracene
+Email	baba.masaaki.3n@kyoto-u.ac.jp
+Phone	+81-075-753-6834
+Address	Graduate School of Science, Kyoto University
+	Kitashirakawa-oiwakecho, Sakyo-ku
+	606-8502, Kyoto, Japan
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	USTC Reception Center Experts Building
+ShareRoom	No
+Roomate	

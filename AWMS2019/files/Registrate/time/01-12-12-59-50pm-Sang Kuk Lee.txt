@@ -1,0 +1,15 @@
+Name	Sang Kuk Lee
+Gender	Male
+Title	Professor
+Institute	Pusan National University
+VisaHelp	Yes
+Presentation	Poster
+TitleofPresentation	Will be sent in the future.
+Email	sklee@pusan.ac.kr
+Phone	+82-51-514-5877
+Address	Department of Chemistry	Pusan National University	Busan 46241, South Korea
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	USTC Reception Center Experts Building
+ShareRoom	Yes
+Roomate	Mijung Kim

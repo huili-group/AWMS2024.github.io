@@ -1,0 +1,15 @@
+Name	Lunhua Deng
+Gender	Male
+Title	Dr.
+Institute	East China Normal University
+VisaHelp	No
+Presentation	Oral
+TitleofPresentation	Concentration Modulated Absorption Spectra of OH  in Water Vapor Discharge 
+Email	lhdeng@phy.ecnu.edu.cn
+Phone	138 1671 9105
+Address	State Key Laboratory of Precision Spectroscopy	Science Building A902，East China Normal University,	3663 Zhongshan Road (N.), Shanghai, 200062，China
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	Order by Myself
+ShareRoom	No
+Roomate	No Roomate.

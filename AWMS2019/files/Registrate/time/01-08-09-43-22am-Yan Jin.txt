@@ -1,0 +1,15 @@
+Name	Yan Jin
+Gender	Female
+Title	Mrs.
+Institute	ChongQing University
+VisaHelp	No
+Presentation	Oral
+TitleofPresentation	Will be sent in the future.
+Email	JinYan0106
+Phone	15213386741
+Address	Daxuecheng South Rd. 55	Chongqing, China	
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	USTC Reception Center Experts Building
+ShareRoom	Yes
+Roomate	Yang Zheng

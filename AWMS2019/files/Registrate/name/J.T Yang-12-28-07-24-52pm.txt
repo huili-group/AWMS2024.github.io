@@ -1,0 +1,15 @@
+Name	J.T Yang
+Gender	Male
+Title	Mr.
+Institute	Jilin University(JLU)
+VisaHelp	No
+Presentation	No
+TitleofPresentation	No Presentation.
+Email	yangjt18@mails.jlu.edu.cn
+Phone	13944112683
+Address	吉林省长春市柳条路2号 吉林大学前卫北区科技楼
+ArriDate	2019-3-6
+DeparDate	2019-3-10
+Hotel	Order by Myself
+ShareRoom	Yes
+Roomate	Nobody

@@ -1,0 +1,17 @@
+Name	Lu Wang
+Gender	Female
+Title	Mrs.
+Institute	Institute of Theoretical Chemistry Jilin University
+VisaHelp	No
+Presentation	Poster
+TitleofPresentation	
+Email	13630742419@163.com
+Phone	13630732419
+Address	Institute of Theoretical Chemistry, Qianwei North Campus
+	Rd. Liutiao 2
+	Changchun, Jilin, China 130023
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	Order by Myself
+ShareRoom	No
+Roomate	

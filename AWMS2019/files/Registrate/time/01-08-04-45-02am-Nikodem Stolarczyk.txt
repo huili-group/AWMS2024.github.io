@@ -1,0 +1,15 @@
+Name	Nikodem Stolarczyk
+Gender	Male
+Title	Mr
+Institute	Institute of Physics, Nicolaus Copernicus University in Toruń
+VisaHelp	No
+Presentation	Oral
+TitleofPresentation	Will be sent in the future.
+Email	nikodemstolarczyk319@gmail.com
+Phone	+48513132140
+Address	ul Czeremchowa 10/7, 61-474, Poznań, Poland
+ArriDate	2019-03-07
+DeparDate	2019-03-09
+Hotel	Order by Myself
+ShareRoom	No
+Roomate	No Roomate.

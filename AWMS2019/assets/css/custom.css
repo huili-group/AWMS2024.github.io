@@ -1,0 +1,10 @@
+/*#banner .content{
+	width: 65%;
+}
+#banner .image{
+	width: 35%;
+}*/
+#sidebar > .inner > *{
+	border-bottom: none;
+	padding: 0 0 0 0;
+}

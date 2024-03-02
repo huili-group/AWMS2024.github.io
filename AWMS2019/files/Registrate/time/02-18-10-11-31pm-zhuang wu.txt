@@ -1,0 +1,15 @@
+Name	zhuang wu
+Gender	male
+Title	Mr.
+Institute	Soochow university
+VisaHelp	No
+Presentation	Oral
+TitleofPresentation	Spectroscopic Detection of Interstellar Sulfur Oxides
+Email	20174009022@stu.suda.edu.cn
+Phone	15371814450
+Address	College of Chemistry, Chemical Engineering and Materials Science	Soochow University	199 Ren-Ai Road, Suzhou Industrial Park	Suzhou, Jiangsu 215123, P.R. China
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	Easy Living International Hotel (Shuttle Available)
+ShareRoom	No
+Roomate	No Roomate.

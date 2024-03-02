@@ -1,0 +1,15 @@
+Name	Kaito Takahashi
+Gender	Male
+Title	Dr
+Institute	IAMS, Academia Sinica Taiwan
+VisaHelp	No
+Presentation	Oral
+TitleofPresentation	Is the OH Stretching Vibrational Transition Moment of Simple Molecules Aligned Along the OH Bond?
+Email	kt@gate.sinica.edu.tw
+Phone	+886223668237
+Address	No. 1, Roosevelt Rd., Sec. 4, Taipei, 10617, Taiwan
+ArriDate	2019-03-06
+DeparDate	2019-03-10
+Hotel	USTC Reception Center Experts Building
+ShareRoom	Yes
+Roomate	Jer-Lai Kuo
