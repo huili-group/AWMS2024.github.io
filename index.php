@@ -38,10 +38,10 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>The 3<sup>rd</sup> Asian Workshop on <br />
+											<h1>The 8<sup>th</sup> Asian Workshop on <br />
 											Molecular Spectroscopy</h1>
 										</header>
-										March 7<sup>th</sup>-9<sup>th</sup> @ Department of Chemical Physics, University of Science and Technology of China
+										September  11<sup>th</sup>-12<sup>th</sup> @ College of Chemistry, Jilin University 
 										
 									</div>
 								</section>
