@@ -1833,7 +1833,7 @@ button,
           .posts article:last-child:after {
             display: none; } }
 
-/* Posts */
+/* Super_Posts */
 .super_posts {
   display: -moz-flex;
   display: -webkit-flex;
