@@ -1857,18 +1857,24 @@ button,
     margin: 0 0 6em 6em;
     position: relative;
     width: calc(33.33333% - 6em); }
-      .super_posts article:.leftbox {
-      width: calc(100% + 2em)
-      height: calc(100% + 2em);
+      .posts article:before {
       background: rgba(210, 215, 217, 0.75);
-      float: left;
-      }
-      .super_posts article:rightbox {
-      width: calc(100% + 6em）;
-      height: calc(100% + 2em);
+      content: '';
+      display: block;
+      height: calc(100% + 6em);
+      left: -3em;
+      position: absolute;
+      top: 0;
+      width: 1px; }
+    .posts article:after {
       background: rgba(210, 215, 217, 0.75);
-      float: right;
-      }
+      bottom: -3em;
+      content: '';
+      display: block;
+      height: 1px;
+      position: absolute;
+      right: 0;
+      width: calc(100% + 6em); }
     .super_posts article > :last-child {
       margin-bottom: 0; }
     .super_posts article .image {
