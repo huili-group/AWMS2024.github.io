@@ -1884,7 +1884,7 @@ button,
     }
       .super_posts article .image img {
         display: block;
-        width: 1em; }
+        width: 5em; }
   @media screen and (min-width: 1681px) {
     .super_posts article:nth-child(3n + 1):before {
       display: none; }
