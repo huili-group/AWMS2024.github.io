@@ -197,7 +197,7 @@
 				background: _palette(border);
 				content: '';
 				display: block;
-				height: calc(100% + #{$gutter});
+				height: calc(50% + #{$gutter});
 				left: ($gutter * -0.5);
 				position: absolute;
 				top: 0;
