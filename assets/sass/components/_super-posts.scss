@@ -6,7 +6,7 @@
 
 /* Super-Posts */
 
-              .posts {
+              .super_posts {
 		$gutter: (_size(gutter) * 2);
 
 		@include vendor('display', 'flex');
