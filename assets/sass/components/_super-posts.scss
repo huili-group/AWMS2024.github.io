@@ -4,9 +4,9 @@
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
 
-/* Super-Posts */
+/* Super_Posts */
 
-              .super_posts {
+	.super_posts {
 		$gutter: (_size(gutter) * 2);
 
 		@include vendor('display', 'flex');
@@ -177,3 +177,5 @@
 			}
 		}
 	}
+
+        
