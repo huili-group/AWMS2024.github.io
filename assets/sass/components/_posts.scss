@@ -179,7 +179,7 @@
 	}
 
         .super-posts {
-		$gutter: (_size(gutter) * 2);
+		$gutter: (_size(gutter) * 3);
 
 		@include vendor('display', 'flex');
 		@include vendor('flex-wrap', 'wrap');
@@ -221,7 +221,7 @@
 
 			.image {
 				display: block;
-				margin: 0 0 _size(element-margin) 0;
+				margin: 0 0 _size(200*300) 0;
 
 				img {
 					display: block;
