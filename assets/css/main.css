@@ -1846,6 +1846,7 @@ button,
   margin: 0 0 2em -6em;
   width: calc(100% + 6em); }
   .super_posts article {
+    float: left;
     -moz-flex-grow: 0;
     -webkit-flex-grow: 0;
     -ms-flex-grow: 0;
@@ -1878,6 +1879,7 @@ button,
     .super_posts article > :last-child {
       margin-bottom: 0; }
     .super_posts article .image {
+      float: right;
       display: block;
       /* margin: 0 0 2em 0;  */
       margin: 0 0 2em 0;
