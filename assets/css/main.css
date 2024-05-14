@@ -1881,8 +1881,8 @@ button,
     .super_posts article .image {
       float: left;
       display: block;
-      /* margin: 0 0 2em 2em;  */
-      margin: 0 0 2em 2em;
+      /* margin: 0 2em 2em 0;  */
+      margin: 0 2em 2em 0;
     }
       .super_posts article .image img {
         display: block;
