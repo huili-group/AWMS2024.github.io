@@ -1857,7 +1857,7 @@ button,
     flex-shrink: 1;
     margin: 0 0 6em 6em;
     position: relative;
-    width: calc(33.33333% - 6em); }
+    width: calc(33.33333% - 2em); }
       .posts article:before {
       background: rgba(210, 215, 217, 0.75);
       content: '';
@@ -1869,7 +1869,7 @@ button,
       width: 1px; }
     .posts article:after {
       background: rgba(210, 215, 217, 0.75);
-      bottom: -3em;
+      bottom: -1em;
       content: '';
       display: block;
       height: 1px;
